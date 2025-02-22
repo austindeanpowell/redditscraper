@@ -1,9 +1,8 @@
 # redditscraper
 
-Reddit Scraper for Sentiment Analysis with REDDIT API and NLTK  Sentiment Intensity Analyzer
-This folder contains a step by step to run Praw and NLTK for a sentiment analysis on reddit. 
-Each file test the import of PRAW, NLTK, Checking for access to REDDIT API 
-ideal for running on VSCode and the terminal. 
+This repository provides a comprehensive guide to setting up and running a Reddit scraper for sentiment analysis using the Reddit API, praw, and the NLTK Sentiment Intensity Analyzer. It includes step-by-step instructions for testing API access, importing necessary libraries, and analyzing Reddit comments efficiently.
+
+Designed for use in VSCode and the terminal, this setup ensures a smooth and structured approach to web scraping and sentiment analysis.
 
 *** IMPORTANT INSTALLS ****
 - add sudo to install globally and not only environment
